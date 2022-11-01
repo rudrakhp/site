@@ -1,30 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Salesforce
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Service Identity and Authorization, Security Infra
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Oct. 2021
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Member of Technical Staff
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Zeta Suite
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Monitoring and Observability, Compute Infra
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Apr. 2021
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Software Development Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Amazon
+    i18n: company_b
+  desc:
+    detail: Rewards platform, Amazon Pay
+    i18n: company_b_desc
+  date:
+    detail: Jul. 2019
+    i18n: company_b_date
+  job:
+    detail: Software Development Engineer
     i18n: company_b_job
   icon: fa-plus-square
