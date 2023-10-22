@@ -3,23 +3,20 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Go
-  href: /go/
+- name: programming
+  href: /prog/
 
-- name: Kubernetes
-  href: /k8s/
+- name: cloud
+  href: /cloud/
 
-- name: AWS
-  href: /aws/
+- name: Distributed Computing
+  href: /distcomp/
 
-- name: Database Internals
-  href: /db/
-
-- name: Networking
+- name: Computer Networks
   href: /network/
 
-- name: Security
-  href: /security/
+- name: Information Security
+  href: /infosec/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 # - name: Donate

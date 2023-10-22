@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-docker
     - name: icon-go
-  desc: A result oriented professional pursuing careers in software engineering, with emphasis on backend software design and development. Possess 3 years of experience in developing software in accordance with low and high level design principles. Skilled in data structures, algorithms, concurrent programming and scalable distributed system design. General interests include cloud & edge computing, information security and blockchain. Active in competitive coding, hackathons and CTFs.  # Describe yourself.
+  desc: Software engineer with 4+ years of experience in backend development. Skilled in data structures, algorithms, concurrent programming and distributed system design. Passionate about cloud computing, IoT edge computing, and cyber security. Actively participate in competitive coding, hackathons, and CTFs. Eager to learn new technologies, frameworks, and paradigms to collaborate with diverse and talented teams.  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

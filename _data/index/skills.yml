@@ -1,6 +1,19 @@
 # skills section data
 
-label: Ability
-id : cs
-aspects: Java, C++, Go, Kubernetes, AWS, PostgreSQL, Kafka, Algorithms, System Design
-percentage: 70, 95, 70, 90, 90, 60, 70, 90, 80
+lang:
+  label: Languages
+  id : lang
+  aspects: Java (Spring), C++, Go, Python (Django), JavaScript (NodeJS/ReactJS), Rust
+  percentage: 80, 90, 80, 70, 60, 50
+
+cs:
+  label: Ability
+  id : cs
+  aspects: Data Structures, Algorithms, System Design, Distributed Computing, Concurrent Programming, IoT, Information Security, Networks, Databases/Storage
+  percentage: 90, 90, 85, 80, 90, 60, 70, 95, 85
+
+infra:
+  label: Infrastructure
+  id: infra
+  aspects: Docker, Kubernetes, AWS, Terraform, PostgreSQL, Redis, MongoDB, Zookeeper, Kafka, Istio, Envoy, OPA, Spinnaker
+  percentage: 90, 95, 95, 80, 85, 85, 80, 80, 80, 80, 90, 80, 75 
