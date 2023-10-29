@@ -5,9 +5,8 @@ date:   2023-10-23
 desc: "Calculating final state of a set of moving robots optimally"
 keywords: "C++,Leetcode,DSA,Easy"
 categories: [prog]
-permalink: /prog/mor/
+permalink: /mor/
 tags: [C++,Leetcode,Easy]
-icon: icon-code
 ---
 
 ## Problem Statement
